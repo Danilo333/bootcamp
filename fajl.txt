@@ -1,0 +1,58 @@
+    1  pwd
+    2  ls
+    3  ls -l
+    4  cd Users
+    5  pwd
+    6  ls -l
+    7  cd All Users
+    8  cd Public
+    9  pwd
+   10  cd desktop
+   11  ls -l
+   12  cd 'Public Music'
+   13  cd?Public Music
+   14  ls
+   15  cd ..
+   16  cd 'Public Music'
+   17  cd 'Public Music'
+   18  pwd
+   19  cd ../..
+   20  mkdir test123
+   21  ls -l
+   22  cd test123
+   23  pwd
+   24  touch test.txt
+   25  nano test.txt
+   26  cat test.txt
+   27  ls
+   28  ls -l
+   29  man ls
+   30  manual ls
+   31  history
+   32  history > istorija.txt
+   33  ls -- help
+   34  ls --help
+   35  rm test.txt
+   36  mkdir dir2
+   37  rmdir dir2
+   38  cat istorija.txt
+   39  tail istorija.txt
+   40  tail -n 3 istorija.txt
+   41  head istorija.txt
+   42  tail -n 3 istorija.txt
+   43  head -n 3 istorija.txt
+   44  date
+   45  time
+   46  cal
+   47  history > istorija.txt
+   48  ls -l
+   49  cd Users
+   50  pwd
+   51  ls -l
+   52  cd 38165
+   53  cd Desktop
+   54  ls -l
+   55  mkdir novi
+   56  cd novi
+   57  touch fajl.txt
+   58  history > fajl.txt
